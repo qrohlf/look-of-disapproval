@@ -1,4 +1,4 @@
-Look_of_disapproval bash alias
+ಠ_ಠ Bash Alias
 ==========================
 
 ##Install on OSX:
