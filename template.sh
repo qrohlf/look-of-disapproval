@@ -1,1 +1,1 @@
-echo 'HTML' > /tmp/dissaprove.html && open /tmp/dissaprove.html
+echo 'HTML' > /tmp/dissaprove.html && OPEN /tmp/dissaprove.html
