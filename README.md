@@ -10,6 +10,12 @@ echo -e "\nalias disapprove=~/.disapprove.sh" >> ~/.bash_profile
 . ~/.bash_profile
 ```
 
+You can then delete the installer:
+```
+cd ../
+rm -rf look-of-disapproval
+```
+
 ##Install on Linux
 Follow the OSX instructions, replacing `~/.bash_profile` with the appropriate file for your system. Ubuntu users should use `~/.profile`, most other distros will use `~/.bashrc`
 
