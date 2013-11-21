@@ -2,7 +2,7 @@
 ==========================
 
 ##Install on OSX:
-```
+```bash
 git clone https://github.com/qrohlf/look-of-disapproval.git
 cd look-of-disapproval
 ./install.sh
@@ -11,7 +11,7 @@ echo -e "\nalias disapprove=~/.disapprove.sh" >> ~/.bash_profile
 ```
 
 You can then delete the installer:
-```
+```bash
 cd ../
 rm -rf look-of-disapproval
 ```
